@@ -1,2 +1,2 @@
 # dump-lua-array
-Dump 1-dimensional Lua array to a file efficiently
+Dump 1-dimensional Lua array into a file efficiently
