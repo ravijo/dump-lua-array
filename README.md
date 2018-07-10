@@ -71,4 +71,7 @@ array.dump(my_array, "out.bin")
 local i=1
 print(string.format("size of arr:%d, my_array[%d]:%d, arr[%d]:%d", array.size(arr), i, my_array[i], i, array.get_element(arr, i)))
 ```
+
+Note
+----
 Check out my blog post [here](https://ravijo.github.io/lua/) for more information about it.
