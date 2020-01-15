@@ -75,3 +75,7 @@ print(string.format("size of arr:%d, my_array[%d]:%d, arr[%d]:%d", array.size(ar
 Note
 ----
 Check out my blog post [here](https://ravijo.github.io/lua/) for more information about it.
+
+Issues (or Error Reporting)
+----
+Please check [here](https://github.com/ravijo/dump-lua-array/issues) and create issues accordingly.
